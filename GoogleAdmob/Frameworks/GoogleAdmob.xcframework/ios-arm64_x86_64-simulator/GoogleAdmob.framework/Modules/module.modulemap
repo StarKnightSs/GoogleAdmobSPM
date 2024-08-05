@@ -1,0 +1,6 @@
+framework module GoogleAdmob {
+  umbrella header "GoogleAdmob.h"
+  export *
+
+  module * { export * }
+}
